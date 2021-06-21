@@ -1,0 +1,13 @@
+img{
+	height: 90px;
+	width : 75px;
+	float : left;
+}
+t{
+	color : #930000;
+	font-style : italic;
+}
+h{
+	color : #005757;
+	font-size : 20px;
+}
